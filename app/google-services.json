@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983515531382",
+    "firebase_url": "https://warframedata-default-rtdb.firebaseio.com",
+    "project_id": "warframedata",
+    "storage_bucket": "warframedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983515531382:android:0c43422ae4092291193757",
+        "android_client_info": {
+          "package_name": "quinnipiac.ser210.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983515531382-pi9ghj87r0phf9epm08d09hr69r09nb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgHCxlYOYcLl0B5vgXCjMxuGSh8yd4eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983515531382-pi9ghj87r0phf9epm08d09hr69r09nb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
